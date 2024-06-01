@@ -1,0 +1,14 @@
+.file-to-text-block {
+    font-size: 16px;
+}
+
+.inline {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+}
+
+.audio {
+    height: 25px;
+    margin-left: 50px;
+}
